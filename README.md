@@ -1,4 +1,12 @@
-# Datariot Documentation
+# Datariot Docs
+
+> Official documentation for Datariot and Orvelis AI — product, architecture and developer guides.
+
+[**Datariot**](https://datariot.xyz) · [**Documentation**](https://info.datariot.xyz) · [**GitHub**](https://github.com/datariotdev)
+
+**Project:** [https://info.datariot.xyz](https://info.datariot.xyz)
+
+---
 
 Product and developer documentation for Datariot and Orvelis AI.
 
